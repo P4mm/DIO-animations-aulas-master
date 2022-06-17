@@ -230,6 +230,11 @@ a:hover {
     transition: 0.3s;
 }
 
+.fotos{
+    color: #893168;
+    text-align: center;
+    text-decoration: underline;
+}
 .card-text {
     width: 40%;
     font-family: sans-serif;
@@ -299,6 +304,7 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 24px;
 }
 
 @media (max-width: 800px) {
