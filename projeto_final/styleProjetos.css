@@ -38,6 +38,8 @@ h2 {
     text-decoration: none;
     color: #ffffff;
     font-size: 24px;
+    height: 40px;
+    width: 10rem;
     padding: 1rem 4rem;
     border: 1px solid #ffffff;
     min-width: 4rem;
@@ -192,7 +194,10 @@ a:hover {
 }
 html{
     font-size: 10px;
-    scroll-behavior: smooth;
+}
+
+h1, h2{
+    font-size: 24px;
 }
 
 a{
